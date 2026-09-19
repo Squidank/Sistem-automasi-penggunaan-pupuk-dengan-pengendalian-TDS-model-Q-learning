@@ -1,2 +1,4 @@
 # Sistem-automasi-penggunaan-pupuk-dengan-pengendalian-TDS-model-Q-learning
 Objek tanaman cabai dengan goals TDS pupuk 600 ppm pada masa vegetatif (1-15 hari), 900 ppm pada masa pertumbuhan awal daun (16-30 hari), dan 1200 ppm pada masa generatif (31-45 hari).
+<img width="1022" height="595" alt="Screenshot 2025-11-26 210159" src="https://github.com/user-attachments/assets/a672f4f0-a6be-482e-bb08-a8ff61672833" />
+Sistem dapat menyesuaikan kebutuhan TDS tanaman berdasarkan masa atau umur tanaman, tahan terhadap perubahan dinamis konsentrasi TDS base air dan pupuk (adaptif) hal ini terbukti dengan uji perubahan TDS dengan menggunakan potensiometer (simulasi menggunakan potensiometer menggantikan sensor TDS yang tidak tersedia di platform simulasi). mikrokontroler yang digunakan adalah esp32-s3.
